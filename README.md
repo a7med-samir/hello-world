@@ -1,8 +1,5 @@
-# hello-world
+# hello-world-branch-a
 
 This is the master file :D
 
-
-this is master after merge branch-a
-This is bracnh-b, now conflect is solved
-
+This is after merge the master to branch-a
