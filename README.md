@@ -1,5 +1,5 @@
-# zaki 1 conflict
+# Conflict in branch-a :D
 
-This is in branch-zaki
+This is the master file :D
+This is branch AAAA
 
-uncommitted changes
