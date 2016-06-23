@@ -1,5 +1,5 @@
-# Conflict in branch-a :D
+# This is the main file.
 
-This is the master file :D
-This is branch AAAA
+This is the master file
+
 
