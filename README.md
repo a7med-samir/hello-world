@@ -2,13 +2,6 @@
 
 This is the master file
 
-conf
-conf
-confconf
-conf
-confconfconf
-confconfconf
-conf
 
 This is demo_branch1
 
