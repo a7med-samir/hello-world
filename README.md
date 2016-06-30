@@ -4,10 +4,10 @@ This master
 This master
 This master
 This master
-This masterThisThis masterThis
+change direct to master
 This master
 This master
-This master
+branch history2 : change 1
 
 branch history1 : change 1
 
