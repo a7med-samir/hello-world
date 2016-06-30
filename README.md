@@ -5,13 +5,13 @@ This master
 This master
 This master
 change direct to master
-This master
+change direct to master 2
 This master
 branch history2 : change 1
 
 branch history1 : change 1 -> after applying code review
+change to master after initaizate pull request
 
 branch history1 : change 2
 
 branch history1 : change 3
-
