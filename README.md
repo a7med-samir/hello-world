@@ -9,7 +9,7 @@ This master
 This master
 branch history2 : change 1
 
-branch history1 : change 1
+branch history1 : change 1 -> after applying code review
 
 branch history1 : change 2
 
